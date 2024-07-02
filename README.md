@@ -4,4 +4,4 @@ Hello, this is for learning purposes. Currently, using the terminal in Gcloud to
 # Development steps
 
 1. create index.html file
- 
+2. create index2.html file
